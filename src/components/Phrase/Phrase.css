@@ -1,0 +1,12 @@
+.phrase_card{
+  background-color:white;
+  border-radius: 2rem;
+  padding: 20px;
+  opacity: 0.8;
+  min-height: 220px;
+}
+
+.phrase {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+}

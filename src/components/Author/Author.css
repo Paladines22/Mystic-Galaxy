@@ -1,0 +1,16 @@
+.img__container{
+  width: 40%;
+  height: 40%;
+  position: absolute;
+  bottom:-185;
+  left:50%;
+  transform: translateX(-50%);
+}
+
+.img{
+  width: 100%;
+}
+
+.author_title{
+  color: white;
+}
